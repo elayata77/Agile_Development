@@ -1,68 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="53a78f6d-12fd-46e5-a2ff-bcbc08427c10" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/views/page/navigate.html.erb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/.idea/Agile_Development.iml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/.idea/agileDev.iml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/.idea/deployment.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/.idea/encodings.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/.idea/runConfigurations/Development__agileDev.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/.idea/runConfigurations/Production__agileDev.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/.idea/runConfigurations/spec__agileDev.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/.idea/runConfigurations/test__agileDev.xml" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/assets/images/slide1.jpg" afterPath="$PROJECT_DIR$/app/assets/images/slide1.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/assets/images/slide3.jpg" afterPath="$PROJECT_DIR$/app/assets/images/slide3.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/.generators" afterPath="$PROJECT_DIR$/.idea/.generators" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/.rakeTasks" afterPath="$PROJECT_DIR$/.idea/.rakeTasks" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/agileDev.iml" afterPath="$PROJECT_DIR$/.idea/agileDev.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/deployment.xml" afterPath="$PROJECT_DIR$/.idea/deployment.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/runConfigurations/Development__agileDev.xml" afterPath="$PROJECT_DIR$/.idea/runConfigurations/Development__agileDev.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/runConfigurations/Production__agileDev.xml" afterPath="$PROJECT_DIR$/.idea/runConfigurations/Production__agileDev.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/runConfigurations/spec__agileDev.xml" afterPath="$PROJECT_DIR$/.idea/runConfigurations/spec__agileDev.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/runConfigurations/test__agileDev.xml" afterPath="$PROJECT_DIR$/.idea/runConfigurations/test__agileDev.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+    <list default="true" id="53a78f6d-12fd-46e5-a2ff-bcbc08427c10" name="Default" comment="i did it!">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/assets/javascripts/google-maps.js" afterPath="$PROJECT_DIR$/app/assets/javascripts/google-maps.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/assets/javascripts/placeholder.min.js" afterPath="$PROJECT_DIR$/app/assets/javascripts/placeholder.min.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/assets/stylesheets/ie-fixes.css" afterPath="$PROJECT_DIR$/app/assets/stylesheets/ie-fixes.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/assets/stylesheets/ie8-grid-foundation-4.css" afterPath="$PROJECT_DIR$/app/assets/stylesheets/ie8-grid-foundation-4.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/assets/stylesheets/stylesheet.css" afterPath="$PROJECT_DIR$/app/assets/stylesheets/stylesheet.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/assets/stylesheets/superfish.css" afterPath="$PROJECT_DIR$/app/assets/stylesheets/superfish.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/page/about.html.erb" afterPath="$PROJECT_DIR$/app/views/page/about.html.erb" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/page/contact.html.erb" afterPath="$PROJECT_DIR$/app/views/page/contact.html.erb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/page/home.html.erb" afterPath="$PROJECT_DIR$/app/views/page/home.html.erb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/page/profile.html.erb" afterPath="$PROJECT_DIR$/app/views/page/profile.html.erb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/page/rides.html.erb" afterPath="$PROJECT_DIR$/app/views/page/rides.html.erb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/page/services.html.erb" afterPath="$PROJECT_DIR$/app/views/page/services.html.erb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/shared/_footer_navigation.html.erb" afterPath="$PROJECT_DIR$/app/views/shared/_footer_navigation.html.erb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/shared/_header.html.erb" afterPath="$PROJECT_DIR$/app/views/shared/_header.html.erb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/shared/_main_navigation.html.erb" afterPath="$PROJECT_DIR$/app/views/shared/_main_navigation.html.erb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/.idea/.generators" afterPath="$PROJECT_DIR$/bin/.idea/.generators" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/.idea/.name" afterPath="$PROJECT_DIR$/bin/.idea/.name" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/.idea/.rakeTasks" afterPath="$PROJECT_DIR$/bin/.idea/.rakeTasks" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/.idea/misc.xml" afterPath="$PROJECT_DIR$/bin/.idea/misc.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/.idea/modules.xml" afterPath="$PROJECT_DIR$/bin/.idea/modules.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/.idea/vcs.xml" afterPath="$PROJECT_DIR$/bin/.idea/vcs.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/.idea/workspace.xml" afterPath="$PROJECT_DIR$/bin/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/app/assets/javascripts/google-maps.js" afterPath="$PROJECT_DIR$/bin/app/assets/javascripts/google-maps.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/app/assets/javascripts/placeholder.min.js" afterPath="$PROJECT_DIR$/bin/app/assets/javascripts/placeholder.min.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/app/assets/stylesheets/ie-fixes.css" afterPath="$PROJECT_DIR$/bin/app/assets/stylesheets/ie-fixes.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/app/assets/stylesheets/ie8-grid-foundation-4.css" afterPath="$PROJECT_DIR$/bin/app/assets/stylesheets/ie8-grid-foundation-4.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/app/assets/stylesheets/stylesheet.css" afterPath="$PROJECT_DIR$/bin/app/assets/stylesheets/stylesheet.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/app/views/page/about.html.erb" afterPath="$PROJECT_DIR$/bin/app/views/page/about.html.erb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/app/views/page/contact.html.erb" afterPath="$PROJECT_DIR$/bin/app/views/page/contact.html.erb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/app/views/page/home.html.erb" afterPath="$PROJECT_DIR$/bin/app/views/page/home.html.erb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/app/views/page/navigate.html.erb" afterPath="$PROJECT_DIR$/bin/app/views/page/navigate.html.erb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/app/views/page/profile.html.erb" afterPath="$PROJECT_DIR$/bin/app/views/page/profile.html.erb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/app/views/page/rides.html.erb" afterPath="$PROJECT_DIR$/bin/app/views/page/rides.html.erb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/app/views/page/services.html.erb" afterPath="$PROJECT_DIR$/bin/app/views/page/services.html.erb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/app/views/shared/_footer_navigation.html.erb" afterPath="$PROJECT_DIR$/bin/app/views/shared/_footer_navigation.html.erb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/app/views/shared/_header.html.erb" afterPath="$PROJECT_DIR$/bin/app/views/shared/_header.html.erb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/app/views/shared/_main_navigation.html.erb" afterPath="$PROJECT_DIR$/bin/app/views/shared/_main_navigation.html.erb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/config/initializers/assets.rb" afterPath="$PROJECT_DIR$/bin/config/initializers/assets.rb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/db/schema.rb" afterPath="$PROJECT_DIR$/bin/db/schema.rb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/db/schema.rb" afterPath="$PROJECT_DIR$/db/schema.rb" />
     </list>
     <ignored path="agileDev.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -103,8 +44,8 @@
       <file leaf-file-name="contact.html.erb" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/views/page/contact.html.erb">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.45714286">
-              <caret line="22" column="47" selection-start-line="22" selection-start-column="47" selection-end-line="22" selection-end-column="47" />
+            <state vertical-scroll-proportion="0.275">
+              <caret line="19" column="41" selection-start-line="19" selection-start-column="41" selection-end-line="19" selection-end-column="41" />
               <folding />
             </state>
           </provider>
@@ -164,6 +105,11 @@
     <option name="ENVIRONMENT" value="development" />
   </component>
   <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="Ez" />
+      </list>
+    </option>
     <option name="ROOT_SYNC" value="SYNC" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="RECENT_COMMON_BRANCH" value="master" />
@@ -329,6 +275,38 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="lib" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="agileDev" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Agile_Development" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="bin" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="agileDev" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Agile_Development" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="bin" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="bin" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -645,6 +623,13 @@
       <option name="number" value="Default" />
       <updated>1454013870914</updated>
     </task>
+    <task id="LOCAL-00001" summary="i did it!">
+      <created>1454636140204</created>
+      <option name="number" value="00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1454636140204</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -683,6 +668,11 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CHECK_NEW_TODO" value="false" />
+    <MESSAGE value="i did it!" />
+    <option name="LAST_COMMIT_MESSAGE" value="i did it!" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -1049,8 +1039,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/views/page/contact.html.erb">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.45714286">
-          <caret line="22" column="47" selection-start-line="22" selection-start-column="47" selection-end-line="22" selection-end-column="47" />
+        <state vertical-scroll-proportion="0.275">
+          <caret line="19" column="41" selection-start-line="19" selection-start-column="41" selection-end-line="19" selection-end-column="41" />
           <folding />
         </state>
       </provider>
