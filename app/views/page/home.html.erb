@@ -1,12 +1,10 @@
-
-<body>
 <div class="wrapper">
-
-
     <div class="tagline-row">
       <div class="row tagline">
         <div class="columns large-12">
-          <h2 class="center">Tincidunt. ac urna urna facilisis etiam platea ac phasellus vut pulvinar dolor porta augue montes odio dapibus elementum augue ultricies quis.</h2>
+          <h2 class="center">
+            Tincidunt. ac urna urna facilisis etiam platea ac phasellus vut
+            pulvinar dolor porta augue montes odio dapibus elementum augue ultricies quis.</h2>
         </div>
       </div>
     </div>
@@ -57,38 +55,3 @@
 
 
   </div>
-</div>
-<script src="js/jquery.min.js"></script>
-<script src="js/hoverIntent.js"></script>
-<script src="js/superfish.js"></script>
-<script src="js/slider/jquery.flexslider.js"></script>
-<script>
-    Modernizr.load({
-        test: Modernizr.placeholder,
-        nope: 'js/placeholder.min.js'
-    });
-
-    function goToNewPage() {
-        if (document.getElementById('target').value) {
-            window.location.href = document.getElementById('target').value;
-        }
-    }
-</script>
-<script>
-    $(document).ready(function () {
-        $('ul.sf-menu').superfish({
-            animation: {
-                height: 'show'
-            },
-            delay: 400
-        });
-        $("img.scrollToTop").click(function () {
-            $("html, body").animate({
-                scrollTop: 0
-            }, "slow");
-        });
-        $('.flexslider').flexslider();
-        $('.flexcar').flexslider();
-    });
-</script>
-</body>

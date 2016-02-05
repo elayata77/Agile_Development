@@ -1,32 +1,4 @@
-<!DOCTYPE html>
-<!--[if lt IE 7]><html class="lt-ie9 lt-ie8 lt-ie7"><![endif]-->
-<!--[if IE 7]><html class="lt-ie9 lt-ie8"><![endif]-->
-<!--[if IE 8]><html class="lt-ie9"><![endif]-->
-<!--[if gt IE 8]><!--><html><!--<![endif]-->
-<head>
-<title>DreamzBank | Contact</title>
-<meta charset="utf-8">
-<link rel="stylesheet" href="stylesheets/foundation.min.css">
-<link rel="stylesheet" href="stylesheets/superfish.css">
-<link rel="stylesheet" href="stylesheets/stylesheet.css">
-<link href='http://fonts.googleapis.com/css?family=Quando' rel='stylesheet' type='text/css'>
-<link href='http://fonts.googleapis.com/css?family=Droid+Sans:400,300|Droid+Serif:400,300' rel='stylesheet' type='text/css'>
-<script src="javascripts/vendor/custom.modernizr.js"></script>
-<script>
-Modernizr.load({
-    // test if browser understands media queries
-    test: Modernizr.mq('only all'),
-    // if not load ie8-grid
-    nope: 'stylesheets/ie8-grid-foundation-4.css'
-});
-</script>
-<!--[if lt IE 9]>
-<link rel="stylesheet" href="stylesheets/ie-fixes.css">
-<![endif]-->
-</head>
-<body>
 <div class="wrapper">
-
   <div class="row content-wrapper">
     <div class="columns large-12">
       <div class="row">
@@ -65,41 +37,4 @@ Modernizr.load({
       </div>
     </div>
   </div>
-
-
 </div>
-</div>
-<script src="js/jquery.min.js"></script>
-<script src="js/hoverIntent.js"></script>
-<script src="js/superfish.js"></script>
-<script src="http://maps.google.com/maps/api/js?sensor=true"></script>
-<script src="js/google-maps.js"></script>
-<script>
-Modernizr.load({
-    test: Modernizr.placeholder,
-    nope: 'js/placeholder.min.js'
-});
-
-function goToNewPage() {
-    if (document.getElementById('target').value) {
-        window.location.href = document.getElementById('target').value;
-    }
-}
-</script>
-<script>
-$(document).ready(function () {
-    $('ul.sf-menu').superfish({
-        animation: {
-            height: 'show'
-        },
-        delay: 400
-    });
-    $("img.scrollToTop").click(function () {
-        $("html, body").animate({
-            scrollTop: 0
-        }, "slow");
-    });
-});
-</script>
-</body>
-</html>

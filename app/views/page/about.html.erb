@@ -1,7 +1,4 @@
-
-<body>
 <div class="wrapper">
-
   <div class="row content-wrapper">
     <div class="columns large-12">
       <div class="row">
@@ -14,16 +11,14 @@
           <ul class="row">
             <li class="columns large-4">
               <div class="img-wrapper">
-
-                <p><%= image_tag("house.jpg", alt:"", class:"th about-image")%>
+                <%= image_tag("house.jpg", alt:"Ez", class:"th about-image")%>
               </div>
-              </p>
               <h3 class="employer-name">Ez Layata</h3>
               <p>Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat porro voluptatem</p>
             </li>
             <li class="columns large-4">
               <div class="img-wrapper">
-                <p><%= image_tag("logo.png", alt:"", class:"th about-image")%>
+                <%= image_tag("slide3.jpg", alt:"Nate", class:"th about-image")%>
               </div>
               <h3 class="employer-name">Nathan</h3>
               <p>Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat volupt porro atem</p>
@@ -31,7 +26,7 @@
             <li class="columns large-4">
               <div class="img-wrapper">
 
-                <p><%= image_tag("logo.png", alt:"", class:"th about-image")%>
+                <%= image_tag("slide1.jpg", alt:"Terry", class:"th about-image")%>
               </div>
               <h3 class="employer-name">Terry</h3>
               <p>Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat porro voluptatem</p>
@@ -42,15 +37,14 @@
             <li class="columns large-4">
                 <div class="img-wrapper">
 
-                <p><%= image_tag("logo.png", alt:"", class:"th about-image")%>
+                <%= image_tag("logo.png", alt:"", class:"th about-image")%>
               </div>
-              </p>
               <h3 class="employer-name">Shelly</h3>
               <p>Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat porro voluptatem</p>
             </li>
             <li class="columns large-4">
               <div class="img-wrapper">
-                <p><%= image_tag("logo.png", alt:"", class:"th about-image")%>
+                <%= image_tag("logo.png", alt:"", class:"th about-image")%>
               </div>
               <h3 class="employer-name">Dylan</h3>
               <p>Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat volupt porro atem</p>
@@ -76,35 +70,3 @@
   </div>
 
 </div>
-</div>
-<script src="js/jquery.min.js"></script>
-<script src="js/hoverIntent.js"></script>
-<script src="js/superfish.js"></script>
-<script>
-Modernizr.load({
-    test: Modernizr.placeholder,
-    nope: 'js/placeholder.min.js'
-});
-
-function goToNewPage() {
-    if (document.getElementById('target').value) {
-        window.location.href = document.getElementById('target').value;
-    }
-}
-</script>
-<script>
-$(document).ready(function () {
-    $('ul.sf-menu').superfish({
-        animation: {
-            height: 'show'
-        },
-        delay: 400
-    });
-    $("img.scrollToTop").click(function () {
-        $("html, body").animate({
-            scrollTop: 0
-        }, "slow");
-    });
-});
-</script>
-</body>
